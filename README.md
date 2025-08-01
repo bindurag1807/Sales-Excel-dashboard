@@ -32,9 +32,12 @@ This project was built to streamline the daily sales reporting process for a sal
 
 ## 📎 Project Files
 
+
 - [`Sales-Excel-dashboard.xlsm`](https://github.com/bindurag1807/Sales-Excel-dashboard/blob/main/Sales-Excel-dashboard.xlsm) – Main Excel dashboard file (macros enabled)
 
-> ⚠️ **Note:** Macros must be enabled in Excel for full functionality.
+> ⚠️ **Important:** Some dashboard features (buttons/macros/slicers) may not work in Excel Online.  
+> 💻 Please download and open the file using **Microsoft Excel Desktop** (Windows recommended) to see the full functionality.
+
 
 ---
 
