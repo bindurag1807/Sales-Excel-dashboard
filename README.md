@@ -16,11 +16,6 @@ This project was built to streamline the daily sales reporting process for a sal
 - [Sales-Excel-dashboard.xlsm (Download Excel Dashboard)](https://github.com/bindurag1807/Sales-Excel-dashboard/raw/main/Sales-Excel-dashboard.xlsm) – Main Excel dashboard file (macros enabled)
 
 
-## 📬 Feedback & Contact  
-- Visit my [Portfolio Website](https://velvety-pie-dbc44f.netlify.app)  
-- Connect on [LinkedIn](https://www.linkedin.com/in/gadhe-bindura)
-
----
 
 
 
