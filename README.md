@@ -10,54 +10,11 @@ This project was built to streamline the daily sales reporting process for a sal
 
 ---
 
-## ✨ Key Features
-
-- ✅ **Dynamic Pivot Tables & Charts** for visualizing sales performance  
-- 🔄 **Automated Macros** to reduce repetitive manual tasks  
-- 📈 **Enhanced Data Visibility** for quicker, data-driven decision-making  
-- 💡 **Clean UI** for easy navigation and interpretation of metrics  
-
----
-
-## 🛠️ Tools & Skills Used
-
-- Microsoft Excel  
-- Pivot Tables & Pivot Charts  
-- VBA Macros  
-- Conditional Formatting  
-- Excel Functions (SUMIFS, VLOOKUP, etc.)  
-- Data Visualization  
-
----
 
 ## 📎 Project Files
 
 - [Sales-Excel-dashboard.xlsm (Download Excel Dashboard)](https://github.com/bindurag1807/Sales-Excel-dashboard/raw/main/Sales-Excel-dashboard.xlsm) – Main Excel dashboard file (macros enabled)
 
-> ⚠️ **Important:** Some dashboard features (buttons/macros/slicers) may not work in Excel Online.  
-> 💻 Please download and open the file using **Microsoft Excel Desktop** (Windows recommended) to see the full functionality.
-
-
-
-
-
----
-
-## 📌 Use Cases
-
-- Daily sales team performance tracking  
-- Automating repetitive Excel reporting  
-- Executive-level KPI snapshots  
-- Enhancing team accountability with clear metrics  
-
----
-
-## 🙌 Acknowledgments
-
-This project was developed as part of my personal portfolio to showcase Excel automation and dashboard design skills.
-
-
----
 
 ## 📬 Feedback & Contact  
 - Visit my [Portfolio Website](https://velvety-pie-dbc44f.netlify.app)  
